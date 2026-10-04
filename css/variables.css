@@ -1,0 +1,83 @@
+/* ==========================================================================
+   SMARTSTUDY AI - CLEAN STUDENT PRODUCTIVITY DESIGN SYSTEM
+   Simple, readable, focused, and comfortable for long study sessions.
+   ========================================================================== */
+
+:root {
+  /* Primary Brand Color: Focused Deep Indigo */
+  --primary-50: #eef2ff;
+  --primary-100: #e0e7ff;
+  --primary-200: #c7d2fe;
+  --primary-500: #4f46e5;
+  --primary-600: #4338ca;
+  --primary-700: #3730a3;
+
+  /* Functional Status Colors */
+  --success-bg: #ecfdf5;
+  --success-text: #065f46;
+  --success-border: #a7f3d0;
+  --success-main: #10b981;
+
+  --warning-bg: #fffbeb;
+  --warning-text: #92400e;
+  --warning-border: #fde68a;
+  --warning-main: #f59e0b;
+
+  --danger-bg: #fef2f2;
+  --danger-text: #991b1b;
+  --danger-border: #fecaca;
+  --danger-main: #ef4444;
+
+  /* Subject Badges (Soft & Readable) */
+  --subj-ds-bg: #e0f2fe;
+  --subj-ds-text: #0369a1;
+
+  --subj-py-bg: #fef3c7;
+  --subj-py-text: #92400e;
+
+  --subj-dbms-bg: #ecfdf5;
+  --subj-dbms-text: #065f46;
+
+  --subj-os-bg: #f3e8ff;
+  --subj-os-text: #6b21a8;
+
+  --subj-ai-bg: #ffe4e6;
+  --subj-ai-text: #9f1239;
+
+  /* Neutral Grayscale (Light & Crisp) */
+  --bg-app: #f9fafb;
+  --bg-surface: #ffffff;
+  --bg-subtle: #f3f4f6;
+  --bg-hover: #e5e7eb;
+
+  --text-main: #111827;
+  --text-body: #374151;
+  --text-muted: #6b7280;
+  --text-light: #9ca3af;
+
+  --border-color: #e5e7eb;
+  --border-subtle: #f3f4f6;
+  --border-focus: #4f46e5;
+
+  /* Typography */
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', Consolas, Monaco, monospace;
+
+  /* Shadows (Subtle, Crisp, Non-distracting) */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 2px 4px -1px rgba(0, 0, 0, 0.06), 0 1px 2px -1px rgba(0, 0, 0, 0.04);
+  --shadow-lg: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.04);
+  --shadow-modal: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+
+  /* Radius (Crisp & Restrained) */
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
+
+  /* Layout */
+  --sidebar-width: 240px;
+  --topbar-height: 60px;
+  --bottombar-height: 58px;
+  --max-width: 1200px;
+}
